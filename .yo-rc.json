@@ -1,0 +1,36 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.mycompanygateway.myappgateway",
+            "nativeLanguage": "en"
+        },
+        "jhipsterVersion": "5.7.2",
+        "applicationType": "gateway",
+        "baseName": "provagateway",
+        "packageName": "com.mycompanygateway.myappgateway",
+        "packageFolder": "com/mycompanygateway/myappgateway",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "hazelcast",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "mysql",
+        "prodDatabaseType": "mysql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "maven",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "YmIwNzcwNTg5MWQ1M2E2YjVmNDNlZjM4NjAyMDNlMTg2NjkwNWM5ZDBjOThhN2I2NDkzODI2MzIyOGM2Y2U3YWU0ZWYwNjIwNDFhNGJkNjJlNDQ4Mzc3YjMzNWVkOTYxODA0ZjZkZjFkNGM4M2MyM2VkMGYyNGIyM2ZmM2YxYTI=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "en",
+        "languages": ["en"]
+    }
+}
