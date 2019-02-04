@@ -2,7 +2,8 @@
     "generator-jhipster": {
         "promptValues": {
             "packageName": "com.mycompanygateway.myappgateway",
-            "nativeLanguage": "en"
+            "nativeLanguage": "en",
+            "microservicePath": "../provaapplication"
         },
         "jhipsterVersion": "5.7.2",
         "applicationType": "gateway",
